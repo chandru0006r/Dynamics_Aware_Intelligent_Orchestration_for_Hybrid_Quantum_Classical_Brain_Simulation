@@ -28,7 +28,6 @@ pip install -r requirements.txt
 Instead of wrestling with manual script execution, the whole project has been unified into a sleek, colorful Interactive Terminal Menu.
 
 ```bash
-cd implementation
 python main.py
 ```
 
